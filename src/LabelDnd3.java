@@ -1,3 +1,4 @@
+/* 2013/7/1 */
 import java.awt.BorderLayout;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;

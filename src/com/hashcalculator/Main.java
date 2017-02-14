@@ -1,3 +1,4 @@
+/* 2013/7/9 */
 package com.hashcalculator;
 import javax.swing.JFrame;
 import javax.swing.UIManager;

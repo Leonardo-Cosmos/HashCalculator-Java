@@ -1,3 +1,4 @@
+/* 2013/7/1 */
 package com.hashcalculator.ui;
 
 import java.awt.datatransfer.DataFlavor;

@@ -1,3 +1,4 @@
+/* 2013/6/18 */
 package com.hashcalculator.security;
 
 import java.security.MessageDigest;

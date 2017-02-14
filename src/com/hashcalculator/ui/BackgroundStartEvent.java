@@ -1,3 +1,4 @@
+/* 2013/6/19 */
 package com.hashcalculator.ui;
 
 import java.util.EventObject;

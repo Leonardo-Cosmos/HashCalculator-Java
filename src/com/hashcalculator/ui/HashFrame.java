@@ -1,3 +1,4 @@
+/* 2013/6/13 */
 package com.hashcalculator.ui;
 
 import java.awt.BorderLayout;

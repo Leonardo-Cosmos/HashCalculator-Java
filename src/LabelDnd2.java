@@ -1,3 +1,4 @@
+/* 2013/7/1 */
 import javax.swing.JColorChooser;
 import javax.swing.JFrame;
 import javax.swing.JLabel;

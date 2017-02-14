@@ -1,3 +1,4 @@
+/* 2013/6/19 */
 package com.hashcalculator.security;
 
 import java.io.File;
